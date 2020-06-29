@@ -1,0 +1,7 @@
+[masters]
+master ansible_host=ip_address ansible_user=ansible
+
+[workers]
+node1 ansible_host=ip_address ansible_user=ansible
+node2 ansible_host=ip_address ansible_user=ansible
+node3 ansible_host=ip_address ansible_user=ansible
